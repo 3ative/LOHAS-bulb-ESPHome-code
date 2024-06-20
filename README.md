@@ -13,6 +13,7 @@ wifi:
 logger:
 api:
 ota:
+  platform: esphome
 
 light:
   - platform: rgbww
